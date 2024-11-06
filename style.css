@@ -1,0 +1,156 @@
+/* Estilo Geral */
+*{
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+/* Container Principal */
+main {
+    max-width: 900px;
+    margin: auto;
+    padding: 3rem;
+}
+
+/* Estilos do Header */
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+header h1 {
+    font-size: 3rem;
+    color: yellow;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Seção de Sobre Mim */
+#sobre {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#sobre h2 {
+    font-size: 1.5rem;
+    color: yellow;
+    margin-bottom: 1rem;
+}
+
+#sobre p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+#sobre img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid yellow;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Seção de Habilidades */
+#habilidades {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+#habilidades h2 {
+    font-size: 1.5rem;
+    color: yellow;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#habilidades ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+#habilidades li {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    margin-top:0.5rem;
+    text-align: center;
+}
+button {
+    background-color:rgba(255,255,255,0.7);
+    font-family:'Times New Roman', serif;
+    text-align: center;
+    height: 32px;
+    border-radius: 0px;
+    padding: 2px 8px;
+    margin-top:0.5rem;
+}
+
+/* Seção de Projetos */
+#projetos {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+#projetos h2 {
+    font-size: 1.5rem;
+    color: yellow;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.project h3 {
+    font-size: 1.2rem;
+    color: yellow;
+    text-align: center;
+}
+
+.project p a {
+    color: yellow;
+    text-decoration: none;
+    text-align: center;
+}
+
+/* Seção de Contato */
+#contato {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+#contato h2 {
+    font-size: 1.5rem;
+    color: yellow;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#contato p a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Estilos do Footer */
+footer {
+    text-align: center;
+    font-size: 0.9rem;
+    color: white;
+}
