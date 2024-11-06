@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Marcus8843 or Marcus
+- 👀 I’m interested in Programming and Gamming
+- 🌱 I’m currently Graduating in Software Engineering
+- 💼 Here, you can see my repository too. All created by me. 
+- 💞️ I’m looking to collaborate on Programming and Learning
+- 📫 How to reach me 
+    -E-mail: marcusvinicius8843@gmail.com or marcusvinicius3074@gmail.com 
+    -Whatsapp: +55 (62) 99983-5678
+    -Instagram: mvma_v
